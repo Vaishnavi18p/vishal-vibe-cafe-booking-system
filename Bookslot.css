@@ -1,0 +1,102 @@
+*{
+
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins' sans-serif;
+}
+
+body{
+        background:url('secbg.png') center/cover no-repeat;
+
+
+}
+.Booking-page
+{
+   max-width:700px;
+   margin:40px auto;
+   padding:20px;
+   
+
+}
+.Booking-page h1
+{
+    text-align:center;
+    margin-bottom:30px;
+    color: #3b5fbf;
+
+}
+
+.card
+{
+        background-color:white;
+        padding:20px;
+        border-radius:20px;
+        margin-bottom:20px;
+        box-shadow: 0 8px 18px rgba(0,0,0,0.1);
+
+}
+
+.card h2
+{
+    margin-bottom:20px;
+    font-size:18px;
+    color: #3b5fbf;
+
+
+}
+
+label
+{
+    display:block;
+    margin-top:10px;
+    font-size:14px;
+    color: #3b5fbf;
+    
+}
+
+input,select
+{
+     color: #514f52;
+     width:100%;
+     padding:10px;
+     margin-top:6px;
+     border-radius:8px;
+     border: 1px solid #ccc;
+
+
+}
+
+.confirm-btn
+{
+    border-radius:12px;
+    color: #3b5fbf;
+    box-shadow: 0 8px 18px rgba(0,0,0,0.1);
+
+    border:none;
+    padding:10px;
+    cursor:pointer;
+    font-size:16px;
+    margin-left:220px;
+}
+
+.confirm-btn-reminder{
+
+    border-radius:12px;
+    color: #3b5fbf;
+    box-shadow: 0 8px 18px rgba(0,0,0,0.1);
+
+    border:none;
+    padding:10px;
+    cursor:pointer;
+    font-size:16px;
+
+    margin-left:240px;
+}
+
+#payStatus
+{
+     margin-top:10px;
+     margin-left:220px;
+
+}

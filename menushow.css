@@ -1,0 +1,208 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins' sans-serif;
+
+
+
+
+}
+
+.menu-page
+{
+    background:url('Thirdbg..jpg') center/cover no-repeat;
+    padding:60px 40px ;
+    
+
+
+
+
+
+
+}
+
+.Nav
+{
+
+   border:none;
+   background:white;
+   border-radius :50%;
+   font-size:20px;
+   color:blue;
+   cursor:pointer;
+   padding:10px 14px;
+   box-shadow: 0 5px 15px rgaba(0,0,0,0.15);
+  
+
+}
+
+
+/*Slider Window */
+.menu-slider
+{
+  width:900px;
+  overflow:hidden;
+
+}
+
+
+/*Track (Moves left/right)*/
+
+.menu-tracker
+{
+    display:flex;
+    transition:transform 0.4s ease;
+    gap:30px;
+
+}
+
+/*Each Menu Section*/
+
+.menu-Section
+{
+
+    margin-bottom:80px;
+
+
+
+}
+
+.menu-Section h2
+{
+    text-align:center;
+    margin-bottom:30px;
+    color:#3b5fbf;
+    font-size:32px;
+
+
+
+}
+
+/*Menu Grid*/
+
+.menu-grid
+{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:35px;
+
+}
+
+.menu-card
+{
+
+    background:white;
+    padding:10px;
+    border-radius:20px;
+    text-align:center;
+
+    height:300px;
+    width:200px;
+    flex-shrink:0;
+
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+
+     box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+
+
+}
+
+/*Image Placeholder*/
+.img-box {
+
+    height:150px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    width:100%;
+    overflow:hidden;
+    
+
+
+}
+
+.img-box img
+{
+
+    height:100%;
+    width:100%;
+    object-fit:cover;
+}
+
+.price
+{
+    font-weight:600;
+    color:#444
+    
+
+}
+
+
+.slider-row
+{
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:20px;
+
+
+}
+
+.menu-card:hover
+{
+    transform:scale(1.03);
+
+}
+
+.Nav:hover
+{
+
+ transform:scale(1.06);
+ box-shadow: 0 15px 30pxr blue;
+}
+
+button
+{
+     text-align:center;
+     margin-bottom:10px;
+     font-size:20px;
+     background:none;
+     border-radius:15px;
+     padding:15px;
+     background-color:white;
+     font-family:'Poppins'sans-serif;
+     
+    
+     border: 2px solid  #3b5fbf;
+     
+     cursor: pointer;
+
+     box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+}
+
+
+
+
+.order-wrapper
+{
+    display:flex;
+    justify-content:center;
+    margin:40px 0;
+}
+
+.menu-card.selected
+{ 
+  border: 10px solid #3b5fbf;
+  transform: scale(1.05);
+
+
+}
+
+
+  
+
+
+

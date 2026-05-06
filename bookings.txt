@@ -1,0 +1,343 @@
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: 
+Phone: 
+Seat: 
+Date: 
+Time: 10:oo-11:30
+Items: 
+------
+Name: Vaishnavi Naik
+Phone: 9049978901
+Seat: 
+Date: 2026-02-10
+Time: 10:00-11:30
+Items: [{"name":"Chocolste Waffle","price":120}]
+------
+Name: Vaishnavi Naik
+Phone: 9049978901
+Seat: 
+Date: 2026-02-10
+Time: 10:00-11:30
+Items: [{"name":"Chocolste Waffle","price":120}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-09
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-07
+Time: 10:00-11:30
+Items: [{"name":"Lemonade","price":150}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Macrons","price":220}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Latte","price":140}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Latte","price":140}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Latte","price":140}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Latte","price":140}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Latte","price":140}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Latte","price":140}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Latte","price":140}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Latte","price":140}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-02-22
+Time: 10:00-11:30
+Items: [{"name":"Latte","price":140}]
+------
+Name: Vaishnavi Vijay Naik
+Phone: 9284097163
+Seat: 
+Date: 2026-03-03
+Time: 10:00-11:30
+Items: [{"name":"Lemonade","price":150},{"name":"Meow Sandwich","price":140}]
+------

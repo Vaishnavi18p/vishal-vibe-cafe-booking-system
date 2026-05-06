@@ -1,0 +1,219 @@
+<html>
+    <head>
+
+        <meta charset="UTF-8">
+
+        <title>Vishal Cafe-Menu</title>
+
+
+        <link rel="Stylesheet" href="Menu.css">
+
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+
+    </head>
+
+
+    <body>
+
+        <section class="menu-page">
+
+            <!--Drink Section-->
+            <section class="menu-Section">
+                            <h2>Drinks</h2>
+
+            
+                <div class="slider-row">
+
+                     <button class="Nav" onclick="slideDrinks(-1)">&#8592;</button>
+
+                        <!--Slider Window-->
+                        <div class="menu-slider">
+
+                
+
+
+                             <!--Slide wrapper-->
+                                <div class="menu-tracker" id="DrinkTrack">
+
+                            
+
+
+                                
+                                    <div class="menu-card" onclick="selectItem('Cappuccino',120)">
+                                        <div class="img-box">
+                                            <img src="Drink1.png" alt="Drink1">
+                                        </div>
+                                        <h4>Cappuccino</h4>
+                                        <p class="price">120</p>
+                                    </div>
+                                
+
+                                    <div class="menu-card" onclick="selectItem('Latte',140)">
+                                        <div class="img-box">
+                                            <img src="Drink2.png" alt="Drink2">
+                                        </div>
+                                        <h4>Latte</h4>
+                                        <p class="price">₹140</p>
+                                    </div>
+
+                                    <div class="menu-card" onclick="selectItem('Lemonade',150)">
+                                        <div class="img-box">
+                                            <img src="Drink3.png" alt="Drink3">
+                                        </div>
+                                        <h4>Lemonade</h4>
+                                        <p class="price">₹150</p>
+                                    </div>
+
+                                    <div class="menu-card" onclick="selectItem('Boba Chocolate',160)">
+                                        <div class="img-box">
+                                            <img src="Drink4.png" alt="Drink4">
+                                        </div>
+                                        <h4>Boba Chocolate</h4>
+                                        <p class="price">₹160</p>
+                                    </div>
+
+                                    <div class="menu-card" onclick="selectItem('CocaCola',60)">
+
+                                        <div class="img-box">
+                                            <img src="Drink5.png" alt="Drink5">
+                                        
+
+                                        </div>
+                                        <h4>CocaCola</h4>
+                                        <p class="price">₹60</p>
+
+                                    </div>
+
+
+                                    <div class="menu-card" onclick="selectItem('Special Tea',220)">
+                                        <div class="img-box">
+                                            <img src="Drink6.png" alt="Drink6">
+
+
+                                        </div>
+                                        <h4>Special Tea</h4>
+                                        <p class="price">₹50</p>
+                                    </div>
+
+                                    
+
+
+                                 </div>
+                         </div> 
+                            
+                            
+                             <button class="Nav" type="button" onclick="slideDrinks(1)">&#8594;</button>
+
+
+                        
+
+
+                </div>
+
+             </section>
+
+
+                        <!-- FOOD MENU -->
+                        <section class="menu-section">
+                            <h2>Food</h2>
+
+                        
+                                    <div class="slider-row">
+                                    <button class="Nav" type="button" onclick="slideFood(-1)">&#8592;</button>
+
+
+                                    <div class="menu-slider">
+
+
+                                         <div class="menu-tracker" id="Foodtrack">
+
+
+
+
+                                            <div class="menu-card" onclick="selectItem('Tiramisu',180)">
+                                                <div class="img-box">
+                                                    <img src="Food1.png" alt="Drink1">
+                                                </div>
+                                                <h4>Tiramisu</h4>
+                                                <p class="price">₹180</p>
+                                            </div>
+
+                                            <div class="menu-card" onclick="selectItem('Macrons',220)">
+                                                <div class="img-box">
+                                                    <img src="Food2.png" alt="Drink1">
+                                                </div>
+                                                <h4>Macrons</h4>
+                                                <p class="price">₹220</p>
+                                            </div>
+
+                                            <div class="menu-card" onclick="selectItem('Chocolste Waffle',120)" >
+                                                <div class="img-box">
+                                                    <img src="Food3.png" alt="Drink1">
+                                                </div>
+                                                <h4>Chocolate Waffle</h4>
+                                                <p class="price">₹120</p>
+                                            </div>
+
+                                            <div class="menu-card" onclick="selectItem('Meow Sandwich',140)">
+                                                <div class="img-box">
+                                                    <img src="Food4.png" alt="Drink1">
+                                                </div>
+                                                <h4>Meow Sandwich</h4>
+                                                <p class="price">₹140</p>
+                                            </div>
+
+                                            <div class="menu-card" onclick="selectItem('French Fries',100)">
+                                                <div class="img-box">
+                                                    <img src="Food5.png" alt="Food5">
+
+
+                                                </div>
+                                                <h4>French Fries</h4>
+                                                <p class="price">₹100</p>
+
+
+                                            </div>
+
+                                            <div class="menu-card" onclick="selectItem('Veg Burger',160)">
+                                                <div class="img-box">
+                                                    <img src="Food6.png" alt="Food6">
+
+                                                </div>
+                                                <h4>Veg Burger</h4>
+                                                <p class="price">₹160</p>
+
+                                            </div>
+
+
+                                         </div>
+
+                                    </div>
+
+
+                                     <!-- RIGHT ARROW -->
+                    <button type="button" class="Nav" onclick="slideFood(1)">&#8594;</button>
+
+
+                                
+
+
+
+                    </div>
+                    </section>
+
+                    
+
+                        </section>
+
+
+
+    <script src="menu.js"></script>
+
+
+
+   
+
+    </body>
+
+</html>
