@@ -45,7 +45,7 @@ body
 {
 
     height:100vh;
-    background:url("background.png") center/cover no-repeat;
+    background:url("images/background.png") center/cover no-repeat;
     position:relative;
 
     
@@ -99,7 +99,7 @@ body
 {
 
      height:145vh;
-     background:url("secbg.png")center/cover no-repeat;
+     background:url("images/secbg.png")center/cover no-repeat;
     
 
 

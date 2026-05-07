@@ -31,6 +31,8 @@ let selectedItems=[];
 function selectItem(name,price)
 {
     selectedItems.push({name,price});
+    localStorage.setItem("menuItems",JSON.stringify(selectedItems));
+
 
     event.currentTarget.classList.toggle("selected");
 }
@@ -45,6 +47,9 @@ function gobooking()
     }
 
 
-    localStorage.setItem("menuItems",JSON.stringify(selectItem));
-    window.location.href="Bookeslot.html";
+
+    localStorage.setItem("menuItems",JSON.stringify(selectedItems));
+    console.log(localStorage.getItem("menuItems"));
+    window.location.href="Bookelot.html";
 }
+

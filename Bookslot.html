@@ -1,5 +1,77 @@
-window.onload=function()
-{
-    const seat=localStorage.getItem("selectedSeat");
-    const item=localStorage.getItem("selected")
-}
+<html>
+    <head>
+            <meta charset="UTF-8">
+            <title>Bookeslot | Vishal Vibe Cafe</title>
+
+            <link rel="stylesheet" href="Bookslot.css">
+            <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+            
+    </head>
+
+
+    <body>
+
+            <section class="Booking-page">
+
+                    <h1>Confirm Your Booking</h1>
+
+                        <form  method="POST" onsubmit="return validateForm()" action="Bookslot.php">
+
+                                <!---Hidden data from previous pages-->
+
+                                <input type="hidden" name="seat" id="seatInput"><br>
+                                <input type="hidden" name="item" id="itemInput"><br>
+
+                               <!--slot-->
+                                <div class="card">
+                                        <h2>Select Slot</h2>
+
+                                        <label>Date</label>
+                                        <input type="date" name="date" id="date"><br><br>
+
+                                        <label>Time</label>
+                                        <select name="time" id="time">
+                                            <option value="">Select Time</option>
+                                            <option>10:00-11:30</option>
+                                            <option>12:00-1:30</option>
+                                            <option>4:00-5:30</option>
+                                            <option>6:00-7:30</option>
+                                        </select><br><br>
+
+
+
+                                </div>
+
+                                <!--USER DETAILS-->
+                                <div class="card">
+                                        <input type="text" id="name" name="name" placeholder="Your Name"><br><br>
+                                        <input type="tel" id="phone" name="phone" placeholder="Phone Number"><br><br>
+
+                                        
+
+                                </div>
+
+
+                                <div class="card">
+                                        <h2>Order Summary</h2>
+                                        <ul id="orderList"></ul>
+                                        <h3>Total: ₹<span id="totalAmount" name="total">0</span></h3>
+                                        <input type="hidden" id="totalInput" name="total">
+
+                                        <button type="submit" class="confirm-btn">Confirm Booking</button><br><br>
+
+                                        <button type="button" class="confirm-btn-reminder" onclick="payUpi()">
+                                                Pay Now
+                                        </button>
+
+                                        <p id="payStatus"></p>
+                                </div>
+                         </form>
+
+            </section>
+
+            <script src="Bookslot.js"></script>
+    </body>
+
+</html>
